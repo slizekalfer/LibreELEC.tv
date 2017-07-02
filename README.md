@@ -1,9 +1,3 @@
-**Custom Fork of Escalade's LibreELEC build with Support for NVIDIA Legacy Video Cards supported by 304.135**
-* Replaced 340.102 driver with 304.135
-
-**Planned**
-* Add 304.135 as a separate driver to build alongside 340.102 for additional support
-
 **A fork of LibreELEC with the following features:**
 * LibreELEC 8.0 git
 * Kodi 17 Krypton git
